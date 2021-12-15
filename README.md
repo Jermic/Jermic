@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jermic/Jermic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jermic&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jermic&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
