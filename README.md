@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/Jermic/count.svg">
 -->
 <a href="https://github.com/Jermic"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Jermic)](https://git.io/typing-svg)
+<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Jermic)](https://git.io/typing-svg)
 
 <p align="left"> 
 <img src="https://count.getloli.com/get/@:Jermic" alt=":name" />
