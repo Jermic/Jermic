@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jermic&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <img src="https://profile-counter.glitch.me/Jermic/count.svg">
 -->
-
+<a href="https://github.com/Jermic"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Jermic)](https://git.io/typing-svg)
 
 <p align="left"> 
